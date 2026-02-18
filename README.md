@@ -9,7 +9,7 @@
 
 A feature-rich **Trello-like Task Board** built with React. Features drag-and-drop task management, real-time search with dropdown results, activity logging, and full localStorage persistence — all without a backend.
 
-**[Live Demo](#deployment) · [Getting Started](#getting-started) · [Features](#features) · [Architecture](#architecture)**
+**[Live Demo](#deployment)**
 </div>
 
 ---
@@ -39,7 +39,6 @@ A feature-rich **Trello-like Task Board** built with React. Features drag-and-dr
 - [Storage](#-storage)
 - [Reliability & Error Handling](#-reliability--error-handling)
 - [Testing](#-testing)
-- [Deployment](#-deployment)
 - [License](#-license)
 
 
@@ -432,5 +431,7 @@ MIT — See [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)]
 ---
 
 <div align="center">
+  
 **Built with ❤️ by [MadtorXD](https://github.com/MadtorXD)**
+  
 </div>
