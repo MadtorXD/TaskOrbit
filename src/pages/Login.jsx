@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { useNavigate } from 'react-router-dom';
+import { useNavigate, Navigate } from 'react-router-dom';
 import { useAuth } from '../context/AuthContext';
 import './Login.css';
 
@@ -12,10 +12,9 @@ export default function Login() {
     const [rememberMe, setRememberMe] = useState(false);
     const [error, setError] = useState('');
 
-    // If already logged in, redirect
+    // If already logged in, redirect declaratively (not navigate() during render)
     if (isAuthenticated) {
-        navigate('/board', { replace: true });
-        return null;
+        return <Navigate to="/board" replace />;
     }
 
     const handleSubmit = (e) => {
