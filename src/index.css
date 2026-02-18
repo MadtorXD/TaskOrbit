@@ -1052,6 +1052,36 @@ body {
     transform: scale(0.98);
 }
 
+/* Demo Credentials */
+.demo-credentials {
+    margin-top: 1.5rem;
+    padding: 0.85rem 1rem;
+    background: rgba(168, 85, 247, 0.06);
+    border: 1px dashed rgba(168, 85, 247, 0.25);
+    border-radius: var(--radius-sm);
+    text-align: center;
+}
+
+.demo-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.8px;
+    color: var(--accent);
+    margin-bottom: 0.4rem;
+}
+
+.demo-field {
+    font-size: 0.82rem;
+    color: var(--text-secondary);
+    margin: 0.15rem 0;
+}
+
+.demo-field span {
+    font-weight: 600;
+    color: var(--text-primary);
+}
+
 /* ===================================================
    Responsive
    =================================================== */

@@ -89,6 +89,12 @@ export default function Login() {
 
                     <button type="submit" className="btn-login">Sign In</button>
                 </form>
+
+                <div className="demo-credentials">
+                    <p className="demo-label">🔑 Demo Credentials</p>
+                    <p className="demo-field"><span>Email:</span> intern@demo.com</p>
+                    <p className="demo-field"><span>Password:</span> intern123</p>
+                </div>
             </div>
         </div>
     );

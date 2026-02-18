@@ -122,6 +122,8 @@ npm run preview
 ```
 The build output is generated in the `dist/` directory, ready for deployment to any static hosting service.
 
+The build output is generated in the `dist/` directory, ready for deployment to any static hosting service.
+
 ---
 
 ## 📱 Application Flow
