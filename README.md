@@ -9,7 +9,7 @@
 
 A feature-rich **Trello-like Task Board** built with React. Features drag-and-drop task management, real-time search with dropdown results, activity logging, and full localStorage persistence — all without a backend.
 
-**[Live Demo](#deployment)**
+**[Live Demo](https://taskorbit-chi.vercel.app/)**
 </div>
 
 ---
