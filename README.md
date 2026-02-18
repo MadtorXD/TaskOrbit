@@ -427,7 +427,7 @@ Tests run via **Vitest** with the following setup (`vite.config.js`):
 ---
 
 ## License
-MIT — See [LICENSE](LICENSE) for details.
+MIT — See [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) for details.
 
 ---
 
