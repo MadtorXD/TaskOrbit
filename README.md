@@ -7,7 +7,7 @@
 [![Tests](https://img.shields.io/badge/Tests-12%20Passing-22c55e?style=for-the-badge)](/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-a855f7?style=for-the-badge)](LICENSE)
 
-A feature-rich **Trello-like Task Board** built with React. Features drag-and-drop task management, real-time search with dropdown results, activity logging, and full localStorage persistence — all without a backend.
+TaskOrbit is a modern Kanban-style task management application built with React. It features drag-and-drop task movement, real-time search and filtering, activity logging, protected routes, and persistent state using localStorage — enabling users to manage tasks across Todo, Doing, and Done stages without a backend.
 
 **[Live Demo](https://taskorbit-chi.vercel.app/)**
 </div>
@@ -39,7 +39,7 @@ A feature-rich **Trello-like Task Board** built with React. Features drag-and-dr
 - [Storage](#-storage)
 - [Reliability & Error Handling](#-reliability--error-handling)
 - [Testing](#-testing)
-- [License](#-license)
+- [License](#license)
 
 
 ---
